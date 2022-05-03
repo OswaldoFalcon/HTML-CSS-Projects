@@ -1,0 +1,10 @@
+:root {
+    /* COLORS */
+  --light-color: #EDF1F5;
+  --link-color: #009099;
+   /* UNITS */
+   --space-unit: 8px;
+   /* TEXT */
+   --text-default: 16px;
+
+}

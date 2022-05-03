@@ -1,0 +1,25 @@
+@import "./reset_styles.css";
+@import "./variables.css";
+@import "/styles.css";
+
+
+#truck-info-card{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+    height: 75%;
+    border-style: solid;
+    border-radius: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 30px;
+    background-color: rgb(212, 227, 233);
+}
+#truck-info-card>img {
+    max-width: 300px;
+    max-height: 200px;
+    
+}
